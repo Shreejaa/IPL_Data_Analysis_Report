@@ -8,7 +8,7 @@ Department of computer science<br>
 Georgia State University<br>
 
 ---
-[Analysis Report](IPL_Analysis_Report.html)
+[Analysis Report](https://github.com/Shreejaa/IPL_Data_Analysis_Report/blob/master/Report.pdf)
 ### Index
 1. [Introduction](#intro)
 2. [Install and Import required libraries](#import)
